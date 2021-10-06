@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/86622532?v=4" alt="nishat" />
+<img src="https://avatars.githubusercontent.com/u/86622532?v=4" alt="nishat" style="display:block;margin-left:auto;margin-right:auto"/>
 <h1 align="center">Hi! I'm Nishat Sarker</h1>
 <h3 align="center">Web Developer</h3>
 
